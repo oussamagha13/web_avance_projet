@@ -1,25 +1,25 @@
 {
-  "hash": "abce2b24",
-  "configHash": "32e5f6af",
+  "hash": "16aee3fe",
+  "configHash": "b179029c",
   "lockfileHash": "708ecf42",
-  "browserHash": "03769087",
+  "browserHash": "79f0fe4d",
   "optimized": {
-    "vue": {
-      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
-      "file": "vue.js",
-      "fileHash": "cf026af5",
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "3b92c61a",
       "needsInterop": false
     },
     "bootstrap": {
-      "src": "../../node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "src": "../../bootstrap/dist/js/bootstrap.esm.js",
       "file": "bootstrap.js",
-      "fileHash": "e6b754b6",
+      "fileHash": "7d2bdc12",
       "needsInterop": false
     },
-    "axios": {
-      "src": "../../node_modules/axios/index.js",
-      "file": "axios.js",
-      "fileHash": "fefc8574",
+    "vue": {
+      "src": "../../vue/dist/vue.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "a211def9",
       "needsInterop": false
     }
   },
